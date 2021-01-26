@@ -15,11 +15,9 @@ import Container from '@material-ui/core/Container';
 import Grid from '@material-ui/core/Grid';
 import Paper from '@material-ui/core/Paper';
 import Link from '@material-ui/core/Link';
-import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
-import NotificationsIcon from '@material-ui/icons/Notifications';
 import Avatar from '@material-ui/core/Avatar';
 import Subjects from "./subjects";
-import Search from "../../Components/search/search"
+import Search from "../../components/search/search"
 
 function Copyright() {
   return (
