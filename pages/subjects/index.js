@@ -17,7 +17,7 @@ import Paper from '@material-ui/core/Paper';
 import Link from '@material-ui/core/Link';
 import Avatar from '@material-ui/core/Avatar';
 import Subjects from "./subjects";
-import Search from "../../components/search/search"
+import Search from "../../components/search/search.js"
 
 function Copyright() {
   return (
