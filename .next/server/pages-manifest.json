@@ -1,8 +1,12 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
+  "/api/subj/[id]": "pages/api/subj/[id].js",
+  "/api/subj": "pages/api/subj.js",
+  "/": "pages/index.html",
+  "/subjects/[id]": "pages/subjects/[id].js",
+  "/subjects": "pages/subjects.html",
+  "/subjects/subjects": "pages/subjects/subjects.html",
   "/_error": "pages/_error.js",
-  "/": "pages/index.js",
-  "/subjects": "pages/subjects.js",
-  "/next/dist/pages/_error": "pages/next/dist/pages/_error.js"
+  "/404": "pages/404.html"
 }

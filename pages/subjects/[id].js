@@ -1,5 +1,5 @@
 import axios from 'axios';
-import SubjAttributes from '../Components/';
+import SubjAttributes from '../subjects/subjects';
 
 export const getServerSideProps = async (ctx) => {
    const bookId = ctx.params?.id
